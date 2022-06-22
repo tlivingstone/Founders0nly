@@ -29,6 +29,8 @@ body {
   border-bottom-color: #666;
   box-shadow: -10px 40px 20px 2px rgba(0, 0, 0, 0);
 }
+
+
 .card.opened1 {
   background-image: url("Founders0nlyi/founders0nly-02.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;

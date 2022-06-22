@@ -485,3 +485,4 @@ $('.card').click(function(){
 	}
 
 });
+
