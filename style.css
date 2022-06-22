@@ -12,7 +12,7 @@ body {
 
 .card {
   background-color: #fff;
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-01.jpg");
+  background-image: url("Founders0nlyi/founders0nly-01.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -30,316 +30,316 @@ body {
   box-shadow: -10px 40px 20px 2px rgba(0, 0, 0, 0);
 }
 .card.opened1 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-02.jpg");
+  background-image: url("Founders0nlyi/founders0nly-02.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 .card.opened2 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-03.jpg");
+  background-image: url("Founders0nlyi/founders0nly-03.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 .card.opened3 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-04.jpg");
+  background-image: url("Founders0nlyi/founders0nly-04.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 .card.opened4 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-05.jpg");
+  background-image: url("Founders0nlyi/founders0nly-05.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened5 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-06.jpg");
+  background-image: url("Founders0nlyi/founders0nly-06.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened6 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-07.jpg");
+  background-image: url("Founders0nlyi/founders0nly-07.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened7 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-08.jpg");
+  background-image: url("Founders0nlyi/founders0nly-08.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened8 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-09.jpg");
+  background-image: url("Founders0nlyi/founders0nly-09.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened9 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-10.jpg");
+  background-image: url("Founders0nlyi/founders0nly-10.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened10 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-11.jpg");
+  background-image: url("Founders0nlyi/founders0nly-11.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened11 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-12.jpg");
+  background-image: url("Founders0nlyi/founders0nly-12.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened12 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-13.jpg");
+  background-image: url("Founders0nlyi/founders0nly-13.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened13 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-14.jpg");
+  background-image: url("Founders0nlyi/founders0nly-14.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened14 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-15.jpg");
+  background-image: url("Founders0nlyi/founders0nly-15.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened15 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-16.jpg");
+  background-image: url("Founders0nlyi/founders0nly-16.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened16 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-17.jpg");
+  background-image: url("Founders0nlyi/founders0nly-17.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened17 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-18.jpg");
+  background-image: url("Founders0nlyi/founders0nly-18.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened18 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-19.jpg");
+  background-image: url("Founders0nlyi/founders0nly-19.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened19 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-20.jpg");
+  background-image: url("Founders0nlyi/founders0nly-20.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened20 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-21.jpg");
+  background-image: url("Founders0nlyi/founders0nly-21.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened21 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-22.jpg");
+  background-image: url("Founders0nlyi/founders0nly-22.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened22 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-23.jpg");
+  background-image: url("Founders0nlyi/founders0nly-23.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened23 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-24.jpg");
+  background-image: url("Founders0nlyi/founders0nly-24.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened24 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-25.jpg");
+  background-image: url("Founders0nlyi/founders0nly-25.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened25 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-26.jpg");
+  background-image: url("Founders0nlyi/founders0nly-26.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened26 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-27.jpg");
+  background-image: url("Founders0nlyi/founders0nly-27.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened27 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-28.jpg");
+  background-image: url("Founders0nlyi/founders0nly-28.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened28 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-29.jpg");
+  background-image: url("Founders0nlyi/founders0nly-29.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened29 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-30.jpg");
+  background-image: url("Founders0nlyi/founders0nly-30.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened30 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-31.jpg");
+  background-image: url("Founders0nlyi/founders0nly-31.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened31 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-32.jpg");
+  background-image: url("Founders0nlyi/founders0nly-32.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened32 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-33.jpg");
+  background-image: url("Founders0nlyi/founders0nly-33.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened33 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-34.jpg");
+  background-image: url("Founders0nlyi/founders0nly-34.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened34 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-35.jpg");
+  background-image: url("Founders0nlyi/founders0nly-35.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened35 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-36.jpg");
+  background-image: url("Founders0nlyi/founders0nly-36.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened36 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-37.jpg");
+  background-image: url("Founders0nlyi/founders0nly-37.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened37 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-38.jpg");
+  background-image: url("Founders0nlyi/founders0nly-38.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened38 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-39.jpg");
+  background-image: url("Founders0nlyi/founders0nly-39.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened39 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-40.jpg");
+  background-image: url("Founders0nlyi/founders0nly-40.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened40 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-41.jpg");
+  background-image: url("Founders0nlyi/founders0nly-41.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened41 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-42.jpg");
+  background-image: url("Founders0nlyi/founders0nly-42.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened42 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-43.jpg");
+  background-image: url("Founders0nlyi/founders0nly-43.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened43 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-44.jpg");
+  background-image: url("Founders0nlyi/founders0nly-44.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened44 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-45.jpg");
+  background-image: url("Founders0nlyi/founders0nly-45.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened45 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-46.jpg");
+  background-image: url("Founders0nlyi/founders0nly-46.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened46 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-47.jpg");
+  background-image: url("Founders0nlyi/founders0nly-47.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened47 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-48.jpg");
+  background-image: url("Founders0nlyi/founders0nly-48.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened48 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-49.jpg");
+  background-image: url("Founders0nlyi/founders0nly-49.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened49 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-50.jpg");
+  background-image: url("Founders0nlyi/founders0nly-50.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened50 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-51.jpg");
+  background-image: url("Founders0nlyi/founders0nly-51.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened51 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-52.jpg");
+  background-image: url("Founders0nlyi/founders0nly-52.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.opened52 {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-53.jpg");
+  background-image: url("Founders0nlyi/founders0nly-53.jpg");
   transform: scale(1.5) rotateX(0) rotateY(0deg) rotateZ(0) translateY(0) !important;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
 }
 
 .card.is-removed {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-01.jpg");
+  background-image: url("Founders0nlyi/founders0nly-01.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -351,7 +351,7 @@ body {
 }
 
 .card.down:last-child:hover {
-  background-image: url("file:///Users/tarynlivingstone/Desktop/Founders0nlyi/founders0nly-01.jpg");
+  background-image: url("Founders0nlyi/founders0nly-01.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
